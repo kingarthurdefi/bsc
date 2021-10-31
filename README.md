@@ -1,6 +1,6 @@
-# King Arthur DeFi - BSC Project
+# King Arthur DeFi - BKING - BSC Project
 
-# $BKING
-# https://bsc.kingarthurdefi.com
+# BKING $BKF
+# https://bking.finance
 # t.me/KingArthurDeFi
 # twitter.com/BkingDeFi
